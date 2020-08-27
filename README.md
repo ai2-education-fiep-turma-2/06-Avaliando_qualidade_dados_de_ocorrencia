@@ -30,7 +30,7 @@ Seis campos definem a espécie: Filo;Classe;Ordem;Familia;Genero;Especie do mais
 * Sugiro que utilizem a wiki do repositório git, pois aceita markdown
 * A idéia é que os outros grupos possam utilizar as suas classes para testes, para isso é importante a documentação, bem como, comentários no código.
 
-7) Teste da sua solucao com ao menos dois outros arquivos do portal da biodiversidade do ICMBio (utilizem a documentação da Alessandra  para entender como obter tais arquivos https://github.com/lazaropd/desafio-1-2-005/blob/master/Instruções%20para%20abrir%20arquivo%20no%20excel.pdf)
+7) Teste da sua solucao com ao menos dois outros arquivos do portal da biodiversidade do ICMBio (utilizem a documentação a seguir  para entender como obter tais arquivos )
 
 8) Teste de uma das classes implementadas por outros grupos com arquivos de entrada obtidos por voce no portal, e um texto dos erros obtidos usando uma classe de outro grupo (resultados e possivelmente erros)
 * Utilizem o recurso de package para que os outros grupos possam instalar suas soluções em seus ambientes Conda
