@@ -35,3 +35,5 @@ Seis campos definem a espécie: Filo;Classe;Ordem;Familia;Genero;Especie do mais
 8) Teste de uma das classes implementadas por outros grupos com arquivos de entrada obtidos por voce no portal, e um texto dos erros obtidos usando uma classe de outro grupo (resultados e possivelmente erros)
 * Utilizem o recurso de package para que os outros grupos possam instalar suas soluções em seus ambientes Conda
 * apontem erros encontrados e duvidas na utilizacao por meio de Issues
+
+9) Testar a função de verificar se a localização corresponde a informada no registro, com ocorrencia localizadas no meio do oceano.
