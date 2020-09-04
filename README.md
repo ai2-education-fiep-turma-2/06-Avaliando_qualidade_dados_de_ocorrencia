@@ -37,3 +37,5 @@ Seis campos definem a espécie: Filo;Classe;Ordem;Familia;Genero;Especie do mais
 * apontem erros encontrados e duvidas na utilizacao por meio de Issues
 
 9) Testar a função de verificar se a localização corresponde a informada no registro, com ocorrencia localizadas no meio do oceano.
+
+10) Utilize o pandas para manipular o CSV de dados de ocorrencia. Monte filtros usando os recursos do pandas
